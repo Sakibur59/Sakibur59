@@ -1,3 +1,7 @@
+<h1 align="center">Hi 👋, I'm Md Sakibur Rahman</h1>
+<h3 align="center">Welcome to my GitHub profile! I’m a dedicated MERN stack developer focused on building high-quality full-stack web applications. I thrive on continuous learning and enjoy bringing innovative ideas to life using modern web technologies.</h3>
+
+
 # 💫 About Me:
 📘 Education: Computer Science and Engineering student at Daffodil International University<br>🧑‍💻 Current Role: Mern Stack Developer<br>📍 Location: Dhaka, Bangladesh<br>💡 Ask Me About: JavaScript, React.js, Tailwind CSS<br>🚀 Career Goal: I aim to continuously learn, write better code, and grow into a professional full-stack engineer by working on impactful software projects.
 
