@@ -19,6 +19,11 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+### 📊 GitHub Contributions
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sakibur59&theme=github-dark&hide_border=true&area=true" alt="Activity Graph" width="90%"/>
+</p>
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Sakibur59&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
