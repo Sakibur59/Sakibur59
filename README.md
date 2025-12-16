@@ -1,4 +1,15 @@
 <h1 align="center" >Hi 👋 there, I'm Md Sakibur Rahman</h1>
+h1 {
+            text-align: center;
+            font-size: 42px;
+            margin: 20px 0;
+            background: linear-gradient(90deg, #a82da8, #58a6ff, #a82da8);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            animation: gradient 3s ease infinite;
+            background-size: 200% auto;
+        }
 <h3>Welcome to my GitHub profile! I’m a dedicated MERN stack developer focused on building high-quality full-stack web applications. I thrive on continuous learning and enjoy bringing innovative ideas to life using modern web technologies.</h3>
 
 
@@ -21,7 +32,7 @@
 
 ### 📊 GitHub Contributions
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sakibur59&theme=react&bg_color=0D1117&hide_border=true&area=true&line=FF9900&custom_title=Sakib's+Dev+Activity" alt="Activity Graph" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sakibur59&theme=github-dark&hide_border=true&area=true" alt="Activity Graph" width="90%"/>
 </p>
 
 ### 🔝 Top Contributed Repo
