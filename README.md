@@ -21,7 +21,7 @@
 
 ### 📊 GitHub Contributions
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sakibur59&theme=github-dark&hide_border=true&area=true" alt="Activity Graph" width="90%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sakibur59&theme=react&bg_color=0D1117&hide_border=true&area=true&line=FF9900&custom_title=Sakib's+Dev+Activity" alt="Activity Graph" width="95%"/>
 </p>
 
 ### 🔝 Top Contributed Repo
