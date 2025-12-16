@@ -1,15 +1,6 @@
-<h1 align="center" >Hi 👋 there, I'm Md Sakibur Rahman</h1>
-h1 {
-            text-align: center;
-            font-size: 42px;
-            margin: 20px 0;
-            background: linear-gradient(90deg, #a82da8, #58a6ff, #a82da8);
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
-            background-clip: text;
-            animation: gradient 3s ease infinite;
-            background-size: 200% auto;
-        }
+<h1 align="center">Hi 👋 there, I'm Md Sakibur Rahman</h1>
+
+
 <h3>Welcome to my GitHub profile! I’m a dedicated MERN stack developer focused on building high-quality full-stack web applications. I thrive on continuous learning and enjoy bringing innovative ideas to life using modern web technologies.</h3>
 
 
