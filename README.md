@@ -26,10 +26,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sakibur59&theme=github-dark&hide_border=true&area=true" alt="Activity Graph" width="90%"/>
 </p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Sakibur59&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=Sakibur59&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
