@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋 there, I'm Md Sakibur Rahman</h1>
+ <h1>
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Itim&weight=700&size=30&pause=1000&width=750&lines=Hi+there%2C+I'm+Md+Sakibur+Rahman+%F0%9F%91%8B" alt="Typing SVG">
+    </a>
+  </h1>
 
 
 <h3>Welcome to my GitHub profile! I’m a dedicated MERN stack developer focused on building high-quality full-stack web applications. I thrive on continuous learning and enjoy bringing innovative ideas to life using modern web technologies.</h3>
@@ -21,10 +25,18 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+<hr>
 ### 📊 GitHub Contributions
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sakibur59&theme=github-dark&hide_border=true&area=true" alt="Activity Graph" width="90%"/>
 </p>
+
+
+<hr>
+
+<div align="center">
+  <h3>🌟 Thanks for visiting! Let’s build something awesome together 🌟</h3>
+</div>
 
 
 
