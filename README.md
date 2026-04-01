@@ -33,6 +33,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sakibur59&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sakibur59&theme=tokyonight)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
