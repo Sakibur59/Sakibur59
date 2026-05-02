@@ -9,7 +9,7 @@
 
 
 # 💫 About Me:
-📘 Education: Computer Science and Engineering student at Daffodil International University<br>🧑‍💻 Current Role: Mern Stack Developer<br>📍 Location: Dhaka, Bangladesh<br>💡 Ask Me About: JavaScript, React.js, Tailwind CSS<br>🚀 Career Goal: I aim to continuously learn, write better code, and grow into a professional full-stack engineer by working on impactful software projects.
+📘 Education: Computer Science and Engineering student at Daffodil International University<br>🧑‍💻 Current Role: Mern Stack Developer<br>📍 Location: Dhaka, Bangladesh<br>💡 Ask Me About: JavaScript,ES6,React.js,Next JS,Tailwind CSS<br>🚀 Career Goal: I aim to continuously learn, write better code, and grow into a professional full-stack engineer by working on impactful software projects.
 
 
 ## 🌐 Socials:
