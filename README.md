@@ -1,3 +1,6 @@
+<img width="3780" height="1890" alt="Md Sakibur Rahman&#39;s Banner" src="https://github.com/user-attachments/assets/fa83f1da-5036-4fa7-8d51-174f20f10b42" />
+
+
 <h1>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Syne&weight=800&size=32&pause=1000&color=7C6FFF&width=1400&lines=Hi+there%2C+I'm+Md+Sakibur+Rahman+%F0%9F%91%8B;MERN+Stack+Developer+%F0%9F%9A%80;Building+the+web%2C+one+commit+at+a+time+%E2%9C%A8" alt="Typing SVG" />
