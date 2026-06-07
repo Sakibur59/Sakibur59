@@ -34,6 +34,9 @@ const sakibur = {
   <a href="https://www.linkedin.com/in/md-sakibur-rahman-54b5bb371/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  <a href="https://sakiburrahman-portfolio.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%237C6FFF.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
 </p>
 
 ---
