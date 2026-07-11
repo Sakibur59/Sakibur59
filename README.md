@@ -15,11 +15,10 @@ const sakibur = {
   name:     "Md Sakibur Rahman",
   role:     "MERN Stack Developer",
   location: "Dhaka, Bangladesh 🇧🇩",
-  education:"Computer Science & Engineering @ Daffodil International University",
+  education:"Computer Science & Engineering @ Daffodil International University(2023-Present)",
   focus:    ["React.js", "Next.js", "Node.js", "MongoDB"],
   askMeAbout: ["JavaScript", "ES6+", "Tailwind CSS", "Full-Stack Web Dev"],
   goal:     "Grow into a professional full-stack engineer 🚀",
-  funFact:  "I debug with console.log and I'm not ashamed 😄"
 };
 ```
 
